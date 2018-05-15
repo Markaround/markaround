@@ -16,7 +16,7 @@ No new syntax to learn. Write standard Markdown and simply organize and link you
 
 ## authors first
 
-Markaround disentangles authors from [technical and proprietary esoterica]() and let's them focus on their content. It adheres to the [Authors-first Manifesto](authors-first-manifesto.md). You can learn Markaround [in five minutes](its-this-simple.md).
+Markaround disentangles authors from [technical and proprietary esoterica]() and let's them focus on their content. It adheres to the [Authors First Manifesto](authors-first-manifesto.md). You can learn Markaround [in five minutes](its-this-simple.md).
 
 Markaround is designed so you can seamlessly go from writing to reading and navigating links, and then back to editing, all in the same tool with no publish step. WYSIWYG. Organize and reorganize your content as you please, trusting the Markaround editor to update your links.
 
